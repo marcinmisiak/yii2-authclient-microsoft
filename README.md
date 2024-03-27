@@ -44,3 +44,12 @@ And add the Oauth2 client to your Yii2 configuration `component` section
     ...
 ]
 ```
+## Donations:
+* Donation is as per your goodwill to support my development.
+* If you are interested in my future developments, i would really appreciate a small donation to support this project.
+* 
+```html
+My revolut acount
+https://revolut.me/marcin1k25
+```
+[![Send mone to my revolut acount](https://revolut.me/marcin1k25)](https://revolut.me/marcin1k25)
